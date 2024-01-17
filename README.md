@@ -1,6 +1,6 @@
-# Webscraping_S9
+# Webscraping Semestre 9
 
-L'objectif de ce projet est de créer une webapp qui recense des événements musicaux en région parisienne et fourni aux gens qui recherchent des événements des informations sur le trajet jusqu’au lieu de l’évènement depuis le point de départ de leur choix. On souhaite leur donner les différentes options disponibles entre transports en commun, voiture, vélo et à pieds, et pour chaque option disponible leur indiquer le temps de trajet, le coût, et l’impact environnemental:
+Projet étudiant dont l'objectif est de créer une webapp qui recense des événements musicaux en région parisienne et fourni aux gens qui recherchent des événements des informations sur le trajet jusqu’au lieu de l’évènement depuis le point de départ de leur choix. On souhaite leur donner les différentes options disponibles entre transports en commun, voiture, vélo et à pieds, et pour chaque option disponible leur indiquer le temps de trajet, le coût, et l’impact environnemental:
 
 - **pour la voiture :**
     - une estimation de la quantité d’essence consommée (une fourchette selon le type de voiture utilisée)
@@ -14,3 +14,4 @@ L'objectif de ce projet est de créer une webapp qui recense des événements mu
 - **pour le vélo et à pied :**
     - le temps de trajet
     - une estimation du nombre de calories dépensées
+
