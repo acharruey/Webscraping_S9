@@ -8,7 +8,7 @@ st.set_page_config(page_title="Evénements à Paris")
 
 #### API #####################################################
 
-api_key = 'AIzaSyA9099__3A5Tw8PPH6mTEVp72m7YFO-TJk'
+api_key = 'clé_enlevée_pour_mettre_sur_github'
 gmaps = googlemaps.Client(key=api_key)
 
 
